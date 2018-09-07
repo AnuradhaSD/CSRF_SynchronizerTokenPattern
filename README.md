@@ -22,7 +22,7 @@ git clone https://github.com/AnuradhaSD/CSRF_SynchronizerTokenPattern.git
 ###### Login Form URL
 
 ```
-http://localhost:8080/CSRF/login.jsp
+localhost:8080/CSRF/login.jsp
 
 ```
 ###### Credentials
@@ -35,6 +35,6 @@ Upon Sceessful login directs to Form
 
 ###### Form URL
 ```
-http://localhost:8080/CSRF/form.jsp
+localhost:8080/CSRF/form.jsp
 ```
 ### Blog URL : [Synchronizer Token Pattern](http://sanjeewafirst.blogspot.com/2018/09/cross-site-request-forgery-protection.html)
